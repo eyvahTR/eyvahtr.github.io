@@ -11,7 +11,7 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Eyvah
+username: Eyvah !
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Siber saldırı ve güvenlik uzmanı.
@@ -21,16 +21,6 @@ typing_text: Siber saldırı ve güvenlik uzmanı.
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 # github_username: eyvahTR
-
-# ABOUT ME SECTION
-# show_aboutme_card:
-# > setting this to true, will display the About Me section
-# > setting this to false, will omit the About Me section
-show_aboutme_card: true
-# about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Vermiş olduğum hizmetler
-# about_me_description: This will be displayed under the title.
-about_me_description: Rakipleriniz, düşman olduğunuz birilerinin Bilişim sistemlerine yada Arama motorlarındaki sıralama ve reklamlarına yönelik saldırılar. <br />Şüphe duyduğunuz bir yakınınıza yönelik profesyonel casus yazılım ve cihazlardan silinen verileri kurtarma ihtiyaçlarınız. Bilinmeyen numaralar tarafından yapılan tacizci şahısların kimlik ve adres tespiti, Whatsapp hesaplarının kapatılması gibi istekleriniz. <br />Türk, yabancı mobil ve masaüstü cihazlardan oluşan 325.081 kullanıcılı botnet panelimden sizlere sunmuş olduğum organik hit satışı. <br />Twitter üzerinden trend topic, retweet, yorum ve beğeni hizmetleri.  <br />
 
 # SKILLS SECTION
 # show_skills_card:
