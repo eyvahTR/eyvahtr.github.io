@@ -14,7 +14,7 @@ baseurl: ""
 username: Eyvah
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Siber Saldırı - Casus yazılım - Silinmiş veri kurtarma (Mesaj - Video - Fotoğraf) - Hedef sistem üzerine sızma testi - Hacklink - Anti Seo - Ddos saldırıları - GSM no kimlik tespiti
+typing_text: Siber saldırı uzmanı
 # email: Your E-Mail address for the email button.
 # email: email@example.com
 # For every social button you want to display, set your username or userid
@@ -28,9 +28,13 @@ typing_text: Siber Saldırı - Casus yazılım - Silinmiş veri kurtarma (Mesaj 
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Bilgilendirme
+about_me_title: Vermiş olduğum hizmetler
 # about_me_description: This will be displayed under the title.
-about_me_description: 
+about_me_description: Rakipleriniz, düşman olduğunuz birilerinin Bilişim sistemlerine yada Arama motorlarındaki sıralama ve reklamlarına yönelik saldırılar.
+Şüphe duyduğunuz bir yakınınıza yönelik profesyonel casus yazılım ve cihazlardan silinen verileri kurtarma ihtiyaçlarınız. 
+Bilinmeyen numaralar tarafından yapılan tacizci şahısların kimlik ve adres tespiti, Whatsapp hesaplarının kapatılması gibi istekleriniz.
+Türk, yabancı mobil ve masaüstü cihazlardan oluşan 325.081 kullanıcılı botnet panelimden sizlere sunmuş olduğum organik hit satışı.
+Twitter üzerinden trend topic, retweet, yorum ve beğeni hizmetleri.
 
 # SKILLS SECTION
 # show_skills_card:
