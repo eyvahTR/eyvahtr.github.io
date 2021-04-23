@@ -96,9 +96,7 @@ projects:
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
-google-analytics:
-  id: "G-SV6BE9LS2L"
-
+#google-analytics:  id: "G-SV6BE9LS2L"
 ### END OF VALUES YOU SHOULD CHANGE ###
 
 plugins:
