@@ -7,11 +7,11 @@ title: Neumorphism
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/eyvahtr"
+baseurl: "https://eyvahtr.github.io/"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: Eyvah
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Jekyll Theme
@@ -20,11 +20,7 @@ email: email@example.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: eyvahTR
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -53,7 +49,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+# cv_download_link: https://example.com/
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -86,7 +82,8 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: eyvahTR/eyvahtr.github.io
+
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -100,7 +97,7 @@ projects:
     # forks:
     # > setting this to true, will exclude forked repositories
     # > setting this to false, will also display forked repositories
-    forks: true
+    forks: false
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
     # - repo1-to-be-excluded
