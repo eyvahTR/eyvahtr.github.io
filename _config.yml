@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Siber Saldırı Çözümleri | By Eyvah
+title: Siber Saldırı Çözümleri | El_Katil
 # description: This will be meta HTML tag content. This can be ignored.
 description: Casus yazılım,Veri kurtarma, Anti Seo ve ddos gibi rakiplerinize ve hedeflerinize her türlü siber saldırı ve zafiyet analizi yapılır.
 # baseurl: The subpath of your site
@@ -11,7 +11,7 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Eyvah !
+username: El_Katil
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Siber saldırı ve güvenlik uzmanı.
