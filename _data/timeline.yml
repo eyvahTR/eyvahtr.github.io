@@ -18,41 +18,17 @@
 #   timeline-side: right
 
 - title: Siber saldırı çözümleri
-  subtitle: Rakip firmaların veya duşman olduğunuz şahıslara ait web sayfaları yahut yazılımlara ve sunucu gibi türevlere sızma(pentest) - çökertne(dos-ddos), Google gibi servislerin arama sonuçları ve reklamların banlanması(AntiSeo&AdClick) gibi ihtiyaçlarınız profesyonel ve kesin olarak giderilmektedir.
-  tags:
-    - tag: Siber saldırı
-    - tag: ddos
-    - tag: anti seo
+  subtitle: Rakip firmaların veya duşman olduğunuz şahıslara ait web sayfaları yahut yazılımlara ve sunucu gibi türevlere sızma(pentest) - çökertne(dos-ddos), Google gibi servislerin arama sonuçları ve reklamların banlanması(AntiSeo&AdClick) gibi ihtiyaçlarınız profesyonel ve kesin olarak giderilmektedir. Aklınızdakı soruların ücret ve süreç hakkındaki bilgileri canlı destek üzerinden bize sorabilirsiniz.
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Hacklink, Organik hit ve black hat seo çözümleri
+  subtitle: Da, Pa, Alexa gibi kaliteli ve otoriter yerli yabancı devlet, üniversite, haber ve blog sitelerinden hacklenerek sitenize sunmuş olduğumuz backlinkler sayesinde sıralamanıza çok güzel etkiler sağlanmaktadır. Aynı zamanda Türk, yabancı mobil ve masaüstü cihazlardan oluşan 325.081 kullanıcılı botnet panelimden sizlere sunmuş olduğum organik ziyaretçi sayesinde rakipleriniz her zaman geride kalacaktır.   
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: Casus yazılım, Veri kurtarma ve Güvenli veri yok etme çözümleri.
+  subtitle: Şüphe veya herhangi bir sebepten dolayı takip, dinleme ve daha bir çok amacı gerçekleştirmek istediğiniz cihazlara fark edilmesi, silinmesi mümkün olmayan casus yazılımız sayesinde hedef cihaz formatlansa dahi kurtulamaz. Cihazlardan silinmiş verilerin kurtarılması yada yok edilmesi gereken durumlarda uzaktan deskten vermekteyim bu ihtiyacınız gerçekten çok hassas bir konudur gerekli bilgi için canlı destekden yazabilirsiniz. 
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: GSM, Whatsapp numaralarının kapatma, adres ve kimlik tespiti
+  subtitle: Bilinmeyen numaralardan gelen rahatsız edici iletişimlerin yahut başka bir durumdan dolayı kim olduğunu bulmak istediğiniz numaralara kimlik, adres gibi bilgilerin tespiti, whatsapp gibi hesapların kapatılması için yaptığımız Bilgi edinme ve yer tespiti çalışmaları hakkında bilgi için lütfen bize yazmaktan çekinmeyiniz.  
   timeline-side: left
