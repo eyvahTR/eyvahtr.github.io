@@ -67,7 +67,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: İletişim
 # contact_description: This will be displayed under the title.
-contact_description: 
+contact_description: Bize bu linke <a href="https://api.whatsapp.com/send?phone=18254442864&text=Bilgi%20alabilirmiyim">tıklayarak</a> whatsapp üzerinden yada canlı destek aracılığı ile ulaşabilirsiniz.
 
 # GITHUB-METADATA
 # Set this to your forked repository
@@ -97,7 +97,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: "G-SV6BE9LS2L"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
