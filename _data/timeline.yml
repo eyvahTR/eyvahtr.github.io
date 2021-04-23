@@ -17,15 +17,12 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Siber saldırı çözümleri
+  subtitle: Rakip firmaların veya duşman olduğunuz şahıslara ait web sayfaları yahut yazılımlara ve sunucu gibi türevlere sızma(pentest) - çökertne(dos-ddos), Google gibi servislerin arama sonuçları ve reklamların banlanması(AntiSeo&AdClick) gibi ihtiyaçlarınız profesyonel ve kesin olarak giderilmektedir.
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Siber saldırı
+    - tag: ddos
+    - tag: anti seo
   timeline-side: right
 
 - title: Google
